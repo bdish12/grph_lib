@@ -1,0 +1,4 @@
+"/Users/a.p.evsyukov/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/a.p.evsyukov/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/a.p.evsyukov/git_repos/GRPH -B /Users/a.p.evsyukov/git_repos/GRPH/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/a.p.evsyukov/git_repos/GRPH/cmake-build-debug
